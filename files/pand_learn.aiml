@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>CIAO SAMANTHA</pattern>
+	<template>Ciao Francisca</template>
+</category>
+
+<category>
+	<pattern>CÓMO VA</pattern>
+	<template>Sto bene Gracie</template>
+</category>
+
+<category>
+	<pattern>PREGO</pattern>
+	<template>E tu come stai?</template>
+</category>
+
+<category>
+	<pattern>BENE GRAZIE</pattern>
+	<template>E cosa stai facendo?</template>
+</category>
+
+<category>
+	<pattern>STO MANGIANDO</pattern>
+	<template>E cosa stai facendo</template>
+</category>
+
+<category>
+	<pattern>STO ASCOLTANDO MUSICA</pattern>
+	<template>E quali cose ci sono</template>
+</category>
+
+<category>
+	<pattern>STO ASCOLTANDO MUSICA</pattern>
+	<template>E cosa stai facendo</template>
+</category>
+
+<category>
+	<pattern>STO ASCOLTANDO MUSICA</pattern>
+	<template>E cosa stai facendoE cosa stai facendo?</template>
+</category>
+
+<category>
+	<pattern>AIUTAMI CON UN PRINLEMA</pattern>
+	<template>Sono qui per aiutarti, di cosa hai bisogno?</template>
+</category>
+
+</aiml>
